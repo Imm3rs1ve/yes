@@ -1,6 +1,6 @@
 # Security Policy
 
-i support any version of anything lol
+i dont collect data
 
 ## Reporting a Vulnerability
 
